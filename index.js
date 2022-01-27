@@ -30,5 +30,5 @@ rpc.on('ready', async() => {
 })
 
 rpc.login({
-    clientId: '886576833838088243'
+    clientId: 'Your Client ID'
 })
